@@ -13,3 +13,14 @@ elif x < 5:
 	print("medium")
 else:
 	print("small")
+	
+for country in ["malysia","india","england","taiwan"]:
+	print(country)	
+	
+for x in range(1,10):
+    for y in range(1,10):
+        print (x,'*',y,'=',x*y)
+	
+	
+	
+	
